@@ -37,3 +37,7 @@ elif opcion == '4':
 
 else:
     print("Opción inválida")
+
+Hola = "Como estas"
+
+print(Hola)
